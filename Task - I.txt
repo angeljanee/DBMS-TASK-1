@@ -1,0 +1,30 @@
+                                                                                    Task - I 
+
+Analyze the business requirements of the E-Commerce Order Management System and prepare a requirement specification document.
+
+Amazon Website
+
+1. Introduction
+
+Amazon is one of the world's largest e-commerce websites. It allows users to buy products online, make secure payments, and track their orders easily.
+
+2. Functional Requirements
+
+- User Registration and Login
+- Search and Filter Products
+- Add to Cart and Wishlist
+- Secure Online Payment
+- Order Tracking
+- Customer Reviews and Ratings
+
+3. Non-Functional Requirements
+
+- Fast Loading Speed
+- High Security for User Data and Payments
+- Easy-to-Use Interface
+- Reliable System Availability
+- Scalable to Handle Millions of Users
+
+4. Conclusion
+
+Amazon is a reliable and user-friendly e-commerce platform that provides a secure and convenient online shopping experience with efficient features and high performance.
