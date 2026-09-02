@@ -41,3 +41,36 @@ VALUES
 ('Cricket Bat', 5, 2500.00, 12);
 
 SELECT * FROM Product;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Task 3 — Seller and Inventory Management System
+Requirements
+Create Seller and Inventory tables.
+Establish relationships between sellers, products and stock.
+Maintain seller product information.
+Track available and unavailable products.
+Generate inventory status reports.
+SQL
+The complete implementation is in seller_inventory.sql.
+
+Tables
+Seller — seller ID, name, email, phone and address.
+Inventory — inventory ID, seller, product, available stock, unavailable stock and last updated date.
+Operations
+The SQL file includes table creation, seller/product stock relationships, inventory data and inventory availability reporting.
